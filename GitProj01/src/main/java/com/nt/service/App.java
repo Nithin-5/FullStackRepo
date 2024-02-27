@@ -24,8 +24,6 @@ public class App
     	String s1="Java";
     	String s2="is";
     	String s3="Awesome";
-    	System.out.println(s1+" "+s2+" "+s3);//oooooytirgwrhteh
     }
-    
 }
 
