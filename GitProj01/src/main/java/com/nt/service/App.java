@@ -10,4 +10,13 @@ public class App
     {
         System.out.println( "Hello World!" );
     }
+    public void Git()
+    {
+    System.out.println("Hai Hello");
+    int a=40;
+    int b=60;
+    System.out.println(a+b);
+    }
+    
 }
+
