@@ -25,5 +25,9 @@ public class App
     	String s2="is";
     	String s3="Awesome";
     }
+    public static int Nithin(int x,int y)
+    {
+    	return x+y;
+    }
 }
 
